@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am looking for a C or C++ development job:     tolga.gumus1976@gmail.com
+
 
 <!--
 **tolgagumus/tolgagumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
